@@ -1,8 +1,8 @@
 
-# Coffee Ordering System 
+# Coffee Ordering System
 ## aka. The Caffeine Diaries
 
-The Caffeine Diaries is a simple command-line application that simulates a coffee ordering system. Users can interact with the program to place orders for various types of coffee, view the menu, and generate receipts. This README provides an overview of the project, instructions for running the program, details on features, usage examples, screenshots, installation requirements, license information, and acknowledgments.
+The Caffeine Diaries is a simple command-line application that simulates a coffee ordering system. Users can interact with the program to place orders for various types of coffee, view the menu, and generate receipts. This README provides an overview of the project, instructions for running the program, details on features, usage examples, dedicated video demo, installation requirements, contribution invites and acknowledgments.
 
 
 ## Overview
@@ -44,6 +44,8 @@ The Caffeine Diaries project aims to provide users with a convenient way to orde
 
 
 ## Video Demo
+
+YouTube Link: [The Caffeine Diaries Demo](https://youtu.be/MIeAruhCgAA)
 
 ## Contributing
 
